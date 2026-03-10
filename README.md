@@ -1,66 +1,26 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+praktilum1 
+#<img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/f0c86e59-8fbb-4d7a-bd9a-22a40175a465" />#
+praktikum2
+#<img width="1914" height="1026" alt="image" src="https://github.com/user-attachments/assets/2a715337-44f6-4ded-8933-9389ef65a3f9" />#
+#<img width="1913" height="1028" alt="image" src="https://github.com/user-attachments/assets/8ce01dce-6011-4f02-9107-24cf49fd3037" />#
+#<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/00bb7e1d-9e9e-4493-b32a-16d1a3ae25d9" />#
+#<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/32d01ca8-ee41-40f3-a391-6230e1420c06" />#
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Praktikum3
+#<img width="1120" height="878" alt="image" src="https://github.com/user-attachments/assets/5d8570e5-34c0-4cff-b2a1-f9c47eaf7be6" />#
+#<img width="1673" height="845" alt="image" src="https://github.com/user-attachments/assets/189f9550-6f58-43ef-8012-eb280f6f94c7" />#
+#<img width="1671" height="925" alt="image" src="https://github.com/user-attachments/assets/9a8588f9-39da-490b-b21c-43731e5430fc" />#
+#<img width="1688" height="915" alt="image" src="https://github.com/user-attachments/assets/7b417720-0d3a-4cd1-bd02-47da7009d8e5" />#
+#<img width="1666" height="850" alt="image" src="https://github.com/user-attachments/assets/5e1444aa-2a90-4085-89d7-5b5e4542db87" />#
+#<img width="1671" height="927" alt="image" src="https://github.com/user-attachments/assets/6e168e8b-209a-46b1-9179-1056a0935809" />#
+#<img width="325" height="507" alt="image" src="https://github.com/user-attachments/assets/b9c44aee-ea78-49ad-912e-500b887c138d" />#
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).

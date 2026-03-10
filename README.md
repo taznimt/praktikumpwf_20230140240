@@ -6,5 +6,15 @@ praktikum2
 #<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/00bb7e1d-9e9e-4493-b32a-16d1a3ae25d9" />#
 #<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/32d01ca8-ee41-40f3-a391-6230e1420c06" />#
 
+Praktikum3
+#<img width="1120" height="878" alt="image" src="https://github.com/user-attachments/assets/5d8570e5-34c0-4cff-b2a1-f9c47eaf7be6" />#
+#<img width="1673" height="845" alt="image" src="https://github.com/user-attachments/assets/189f9550-6f58-43ef-8012-eb280f6f94c7" />#
+#<img width="1671" height="925" alt="image" src="https://github.com/user-attachments/assets/9a8588f9-39da-490b-b21c-43731e5430fc" />#
+#<img width="1688" height="915" alt="image" src="https://github.com/user-attachments/assets/7b417720-0d3a-4cd1-bd02-47da7009d8e5" />#
+
+
+
+
+
 
 

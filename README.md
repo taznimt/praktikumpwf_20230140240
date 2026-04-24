@@ -37,6 +37,14 @@ Praktikum3
 |edit data dengan input yang valid|<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/13e898e8-173b-4f36-b218-3aaa6643ad2c" />|
 |berhasil di edit|<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/85528e50-6fbb-4608-a610-fb782cda6091" />|
 
+|Deskripsi|Dokumentasitugas7|
+|---|---|
+|tombol Edit dan Delete pada menu view|<img width="1911" height="1012" alt="image" src="https://github.com/user-attachments/assets/9e360994-3688-4388-9b36-c42722aa59a3" />|
+
+
+
+
+
 
 
 

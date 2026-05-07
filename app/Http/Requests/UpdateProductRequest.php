@@ -14,8 +14,9 @@ class UpdateProductRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'name'  => 'required|string|max:255',
-            'qty'   => 'required|integer|min:1',
+            'name' => 'required|string|max:255',
+            'category_id' => 'required|exists:categories,id',
+            'qty' => 'required|integer|min:1',
             'price' => 'required|numeric|min:1000',
         ];
     }
@@ -23,16 +24,19 @@ class UpdateProductRequest extends FormRequest
     public function messages(): array
     {
         return [
-            'name.required'  => 'Nama produk wajib diisi.',
-            'name.max'       => 'Nama produk tidak boleh lebih dari 255 karakter.',
+            'name.required' => 'Nama produk wajib diisi.',
+            'name.max' => 'Nama produk tidak boleh lebih dari 255 karakter.',
 
-            'qty.required'   => 'Jumlah produk wajib diisi.',
-            'qty.integer'    => 'Jumlah produk harus berupa angka bulat.',
-            'qty.min'        => 'Jumlah produk minimal 1.',
+            'category_id.required' => 'Category wajib dipilih.',
+            'category_id.exists' => 'Category tidak valid.',
+
+            'qty.required' => 'Jumlah produk wajib diisi.',
+            'qty.integer' => 'Jumlah produk harus berupa angka bulat.',
+            'qty.min' => 'Jumlah produk minimal 1.',
 
             'price.required' => 'Harga produk wajib diisi.',
-            'price.numeric'  => 'Harga produk harus berupa angka.',
-            'price.min'      => 'Harga produk tidak boleh kurang dari 1000.',
+            'price.numeric' => 'Harga produk harus berupa angka yang valid.',
+            'price.min' => 'Harga produk minimal 1000.',
         ];
     }
 }

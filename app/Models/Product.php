@@ -6,8 +6,10 @@ use Illuminate\Database\Eloquent\Model;
 
 class Product extends Model
 {
+    // Field yang boleh diisi
     protected $fillable = [
         'user_id',
+        'category_id',
         'name',
         'qty',
         'price',
@@ -15,11 +17,13 @@ class Product extends Model
 
     public function user()
     {
+        // 1 product dimiliki oleh 1 user
         return $this->belongsTo(User::class);
     }
 
-    public function categories()
+    public function category()
     {
-        return $this->hasMany(Category::class);
+        // 1 product dimiliki oleh 1 category
+        return $this->belongsTo(Category::class);
     }
 }

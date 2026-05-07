@@ -6,12 +6,13 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
+use Laravel\Sanctum\HasApiTokens; // trait sanctum
 use App\Models\Product;
 
 class User extends Authenticatable
 {
     /** @use HasFactory<\Database\Factories\UserFactory> */
-    use HasFactory, Notifiable;
+    use HasApiTokens, HasFactory, Notifiable; // tambahkan HasApiTokens
 
     /**
      * The attributes that are mass assignable.
@@ -50,6 +51,7 @@ class User extends Authenticatable
 
     public function products()
     {
+        // 1 user punya banyak product
         return $this->hasMany(Product::class);
     }
 }

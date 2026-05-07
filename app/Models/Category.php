@@ -6,13 +6,14 @@ use Illuminate\Database\Eloquent\Model;
 
 class Category extends Model
 {
+    // Field yang boleh diisi
     protected $fillable = [
-        'product_id',
         'name',
     ];
 
-    public function product()
+    public function products()
     {
-        return $this->belongsTo(Product::class);
+        // 1 category punya banyak product
+        return $this->hasMany(Product::class);
     }
 }

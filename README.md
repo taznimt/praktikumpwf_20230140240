@@ -41,6 +41,31 @@ Praktikum3
 |---|---|
 |tombol Edit dan Delete pada menu view|<img width="1911" height="1012" alt="image" src="https://github.com/user-attachments/assets/9e360994-3688-4388-9b36-c42722aa59a3" />|
 
+|Deskripsi|Dokumentasitugas9|
+|---|---|
+|Login API berhasil|<img width="958" height="479" alt="image" src="https://github.com/user-attachments/assets/0ebce94c-9197-4d5e-9ad6-60cb1826dc7e" />|
+|GET Product|<img width="959" height="470" alt="image" src="https://github.com/user-attachments/assets/22d55ddc-422f-4099-a099-955446e7e0a1" />|
+|GET Detail Product|<img width="958" height="509" alt="image" src="https://github.com/user-attachments/assets/99d9c86b-d2c3-4d27-82b6-037c0254a265" />|
+|PUT PRODUCT|<img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/ba028e3b-416a-4006-b15d-cb2f9177539e" />|
+|DELETE Product|<img width="1918" height="961" alt="image" src="https://github.com/user-attachments/assets/655dcfee-e608-4405-bac9-2193d85c70be" />|
+|GET Category|<img width="1911" height="961" alt="image" src="https://github.com/user-attachments/assets/12dc4e1e-743c-4f79-8500-3144e5f8ecb0" />|
+|GET Detail Category|<img width="1912" height="958" alt="image" src="https://github.com/user-attachments/assets/43f78a44-ba2a-4709-a26e-f4eb0a16c59c" />|
+|POST Category|<img width="1918" height="968" alt="image" src="https://github.com/user-attachments/assets/15d93009-9235-4f6f-8c5b-5fcfa2dad5fc" />|
+|PUT Category|<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/3e825511-1894-4644-a46b-abf15e84f212" />|
+|DELETE Category|<img width="1916" height="980" alt="image" src="https://github.com/user-attachments/assets/770c6742-33f6-425c-a584-5d089e3a18ef" />|
+|Halaman Docs API|<img width="1913" height="930" alt="image" src="https://github.com/user-attachments/assets/c7352584-b24d-4bbc-a642-53db05affd35" />|
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
